@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Spring Boot, DSA, Full Stack Development**
 - 👨‍💻 All of my projects are available at [https://github.com/SamarthiKolhe](https://github.com/SamarthiKolhe)
 - 💬 Ask me about **Java, Hibernate, Web Development**
-- 📫 How to reach me: **your-email@gmail.com**
+- 📫 How to reach me: **samarthikolhe2@gmail.com**
 
 ---
 
@@ -66,7 +66,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="mailto:your-email@gmail.com" target="_blank">
+<a href="mailto:samarthikolhe2@gmail.com" target="_blank">
   <img align="center" src="https://i.pinimg.com/736x/a1/d1/4b/a1d14ba7881740c8c3e428a75132a2ae.jpg" height="30" width="40" />
 </a>
 </div>
